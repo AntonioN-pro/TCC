@@ -1,2 +1,4 @@
-# TCC
-Repositório Destinado ao meu TCC
+# Repositório de TCC
+### Dia 1
+
+
