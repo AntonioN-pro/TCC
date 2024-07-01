@@ -4,6 +4,8 @@ Data: 01/07/2024
 
 Assunto: TCC, mecanismos de desenvolvimento limpo.
 
+link: https://ieeexplore.ieee.org/document/10131828
+
 ---
 ## A Study on The Dimensions and Criteria For Sustainable Development of Clean Development Mechanism (CDM) Projects.
 ### Autores: Liza Rani Satapathy, Bateshwar Singh, K. B. Singh
