@@ -2,7 +2,7 @@ Nome: Antonio Neto de Moura Melo
 
 Data: 01/07/2024
 
-Assunto: TCC, Macanismos de desenvolvimento limpo, Redução da emissão de gasesd o efeito estufa.
+Assunto: TCC, Macanismos de desenvolvimento limpo, Redução da emissão de gases o efeito estufa.
 
 link: https://ieeexplore.ieee.org/document/7103828
 
